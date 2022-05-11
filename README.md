@@ -1,1 +1,1 @@
-# Probability-Stochastic-Processes-2
+# Probability-and-Stochastic-Processes-2
